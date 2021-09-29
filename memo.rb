@@ -63,5 +63,3 @@ else
  puts "1か2を選択してください"
 
 end
-
-redo
